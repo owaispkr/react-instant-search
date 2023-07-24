@@ -1,0 +1,20 @@
+{
+  "name": "hooks-example",
+  "version": "6.23.4",
+  "private": true,
+  "scripts": {
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "algoliasearch": "4.11.0",
+    "instantsearch.js": "4.40.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-instantsearch-hooks": "https://pkg.csb.dev/algolia/react-instantsearch/commit/261d485a/react-instantsearch-hooks",
+    "react-instantsearch-hooks-dom": "https://pkg.csb.dev/algolia/react-instantsearch/commit/261d485a/react-instantsearch-hooks-dom"
+  },
+  "devDependencies": {
+    "parcel": "2.2.1"
+  }
+}

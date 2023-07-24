@@ -1,0 +1,27 @@
+{
+  "name": "hooks-next-example",
+  "version": "6.23.4",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "algoliasearch": "4.11.0",
+    "instantsearch.css": "7.4.5",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-instantsearch-hooks": "6.23.4",
+    "react-instantsearch-hooks-dom": "6.23.4",
+    "react-instantsearch-hooks-server": "6.23.4"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.37",
+    "eslint": "8.4.0",
+    "eslint-config-next": "12.0.7",
+    "typescript": "4.5.4"
+  }
+}
